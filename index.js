@@ -17,7 +17,7 @@ function dec(a) {
   return a-=1
 }
 function makeInt(n) {
-  return parseInt('a.toString')
+  return parseInt('906')
 }
 function preserveDecimal(n) {
   return parseFloat('a')
